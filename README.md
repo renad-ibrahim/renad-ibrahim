@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 
 <h3 align="center">
   Welcome to Renad Ibrahim's profile!
