@@ -6,7 +6,8 @@
 
 
 - 🏢 I'm a Front End developer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 Graduated from faculty of computer and informatics, CS department.
+- 💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript or anything related to web development.
 - ⚡ Fun Fact: I'm a reader and lover of books and a fan of coffee and my perfect day would start a cup of coffee.
 
